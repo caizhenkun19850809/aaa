@@ -1,1 +1,1 @@
-puts 'aaa'
+puts 'bbb'
